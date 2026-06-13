@@ -1,0 +1,11 @@
+faq_id,category,question,answer,related_team
+F001,Login,How can I reset my password?,Access the password reset portal and follow the instructions.,Helpdesk
+F002,Network,VPN does not connect,Check your internet connection restart the VPN client and confirm your MFA settings.,Infra
+F003,Application,CRM system is slow,Clear browser cache and check the internal system status page.,App
+F004,Security,I need access to a shared folder,Submit an access request through the internal portal.,Security
+F005,Database,Report query timeout,Contact the DB team with the query ID and execution time.,DB
+F006,Network,Office Wi-Fi is unavailable,Restart the device check the office network status and contact Infra if the issue continues.,Infra
+F007,Cloud,Production server CPU alert,Check recent deployments running processes and cloud monitoring logs.,Infra
+F008,Login,MFA does not work,Confirm the registered device time synchronization and re-register MFA if necessary.,Helpdesk
+F009,Application,System shows an unexpected error,Record the error message time and screen then contact the application support team.,App
+F010,Security,How can I request access permission?,Submit an access request with manager approval through the internal portal.,Security

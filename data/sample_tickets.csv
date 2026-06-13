@@ -1,0 +1,101 @@
+ticket_id,created_at,category,sub_category,requester_department,impact,urgency,status,assigned_team,resolved_at,description
+T001,2026-06-02 18:50,Cloud,Server Alert,Sales,Low,High,Open,Helpdesk,,Server monitoring alert was triggered.
+T002,2026-06-04 18:50,Network,VPN,HR,High,Medium,Open,Infra,,Office Wi-Fi is unstable in the meeting room.
+T003,2026-06-05 10:10,Application,Error Message,Sales,Low,High,In Progress,DB,,CRM system response time is very slow.
+T004,2026-06-01 15:40,Network,Firewall,HR,Medium,Medium,In Progress,Infra,,Firewall configuration may be blocking business applications.
+T005,2026-06-04 12:00,Network,Proxy,Operations,Medium,Medium,Open,Helpdesk,,Firewall configuration may be blocking business applications.
+T006,2026-06-12 18:50,Database,Backup,Operations,High,Medium,Resolved,DB,2026-06-13 04:27,Application cannot connect to the production database.
+T007,2026-06-04 18:20,Login,SSO,IT,Medium,Low,Resolved,Helpdesk,2026-06-05 18:30,User cannot complete multi-factor authentication.
+T008,2026-06-12 13:10,Network,Proxy,IT,Medium,High,Resolved,Infra,2026-06-12 19:54,Firewall configuration may be blocking business applications.
+T009,2026-06-10 14:40,Login,Account Lock,Finance,High,Medium,In Progress,Helpdesk,,User cannot complete multi-factor authentication.
+T010,2026-06-03 18:30,Login,SSO,HR,Low,Low,Open,Helpdesk,,Single sign-on fails when accessing the HR system.
+T011,2026-06-12 09:50,Application,Data Sync,Marketing,Low,Low,Open,DB,,Application shows an unexpected error message.
+T012,2026-06-12 12:40,Network,Proxy,IT,High,High,Resolved,Infra,2026-06-12 17:13,Users cannot connect to VPN during remote work.
+T013,2026-06-13 16:00,Cloud,CPU Usage,Engineering,High,Low,Resolved,Infra,2026-06-13 23:51,CPU usage alert triggered on production server.
+T014,2026-06-02 15:00,Database,Timeout,Engineering,High,Low,Resolved,Helpdesk,2026-06-02 18:32,Slow query performance is affecting business reports.
+T015,2026-06-09 11:50,Security,Access Request,Marketing,Medium,Medium,Resolved,Security,2026-06-10 17:42,New employee needs access to internal documents.
+T016,2026-06-09 11:40,Application,Data Sync,HR,High,High,Open,App,,CRM system response time is very slow.
+T017,2026-06-09 11:20,Cloud,Server Alert,Engineering,High,High,In Progress,Infra,,Cloud storage usage reached the warning threshold.
+T018,2026-06-02 09:50,Security,Access Request,Legal,High,Medium,In Progress,Security,,Permission settings need to be reviewed.
+T019,2026-06-07 13:00,Application,Data Sync,Sales,Medium,Low,Open,App,,Inventory system shows incorrect stock values.
+T020,2026-06-02 15:40,Security,Shared Folder,Finance,Medium,High,Open,Security,,User requests access to a shared folder.
+T021,2026-06-01 10:30,Network,Office Wi-Fi,Finance,Medium,Medium,Resolved,Infra,2026-06-02 00:39,Firewall configuration may be blocking business applications.
+T022,2026-06-10 16:00,Database,Backup,Legal,High,High,Resolved,DB,2026-06-10 17:24,Slow query performance is affecting business reports.
+T023,2026-06-10 09:50,Security,Access Request,Sales,Low,High,Open,App,,User requests access to a shared folder.
+T024,2026-06-09 13:20,Security,Access Request,Sales,Medium,Medium,Resolved,Security,2026-06-10 11:57,Suspicious login attempt was detected.
+T025,2026-06-13 09:00,Database,Backup,Finance,Medium,High,In Progress,DB,,Monthly report query fails with timeout error.
+T026,2026-06-04 13:20,Network,Office Wi-Fi,Marketing,High,Medium,Open,Infra,,Users cannot access external websites through the proxy.
+T027,2026-06-05 09:00,Security,Permission,Marketing,Low,High,Resolved,Security,2026-06-05 12:51,New employee needs access to internal documents.
+T028,2026-06-08 12:00,Security,Access Request,Operations,High,Medium,In Progress,Security,,Permission settings need to be reviewed.
+T029,2026-06-03 15:40,Database,Query Error,Sales,Medium,High,Resolved,DB,2026-06-04 00:23,Monthly report query fails with timeout error.
+T030,2026-06-03 08:20,Network,Office Wi-Fi,Sales,Low,Medium,Open,Infra,,Users cannot connect to VPN during remote work.
+T031,2026-06-14 14:40,Database,Connection,Engineering,Medium,Medium,Resolved,DB,2026-06-15 18:44,Application cannot connect to the production database.
+T032,2026-06-07 18:50,Login,MFA,IT,High,Medium,In Progress,Helpdesk,,User account is locked after multiple login attempts.
+T033,2026-06-14 15:20,Login,Password,IT,Low,Low,Open,Helpdesk,,User cannot complete multi-factor authentication.
+T034,2026-06-13 12:20,Login,Password,Engineering,Medium,High,Open,Helpdesk,,Single sign-on fails when accessing the HR system.
+T035,2026-06-05 08:00,Cloud,CPU Usage,Sales,High,Low,Open,Infra,,Deployment failed in the staging environment.
+T036,2026-06-10 11:20,Cloud,CPU Usage,IT,Medium,Medium,In Progress,Infra,,Server monitoring alert was triggered.
+T037,2026-06-10 13:50,Network,Office Wi-Fi,Operations,Medium,Low,Resolved,Infra,2026-06-11 12:32,Users cannot access external websites through the proxy.
+T038,2026-06-04 14:50,Security,Suspicious Login,IT,Medium,Medium,Resolved,Helpdesk,2026-06-05 10:50,New employee needs access to internal documents.
+T039,2026-06-11 13:30,Application,Performance,Marketing,Medium,Medium,Resolved,App,2026-06-12 11:03,Customer data is not synchronized correctly.
+T040,2026-06-02 11:50,Cloud,Storage,HR,Medium,Medium,Resolved,Infra,2026-06-03 12:48,Cloud storage usage reached the warning threshold.
+T041,2026-06-08 14:50,Network,VPN,Engineering,Low,Medium,Resolved,Infra,2026-06-09 13:30,Firewall configuration may be blocking business applications.
+T042,2026-06-14 09:30,Application,Data Sync,Engineering,High,Medium,Resolved,App,2026-06-14 21:08,Customer data is not synchronized correctly.
+T043,2026-06-09 17:20,Network,Office Wi-Fi,HR,Medium,Low,Resolved,App,2026-06-10 13:15,Firewall configuration may be blocking business applications.
+T044,2026-06-04 18:20,Security,Shared Folder,Finance,Low,Medium,In Progress,Security,,Permission settings need to be reviewed.
+T045,2026-06-06 13:40,Cloud,Storage,Marketing,Medium,Medium,Open,Infra,,Cloud storage usage reached the warning threshold.
+T046,2026-06-09 15:30,Login,SSO,Finance,Low,High,In Progress,Helpdesk,,Single sign-on fails when accessing the HR system.
+T047,2026-06-07 14:40,Application,Performance,IT,Medium,Low,In Progress,App,,Inventory system shows incorrect stock values.
+T048,2026-06-11 14:50,Application,Bug,Marketing,Medium,High,In Progress,App,,Customer data is not synchronized correctly.
+T049,2026-06-07 10:30,Login,Password,IT,Medium,Medium,Open,Helpdesk,,User account is locked after multiple login attempts.
+T050,2026-06-05 14:20,Application,Error Message,Engineering,Medium,Medium,Resolved,App,2026-06-06 06:33,CRM system response time is very slow.
+T051,2026-06-04 11:00,Database,Connection,HR,Low,Medium,Resolved,DB,2026-06-04 21:12,Slow query performance is affecting business reports.
+T052,2026-06-10 17:50,Cloud,Server Alert,Engineering,Medium,High,In Progress,Infra,,Cloud storage usage reached the warning threshold.
+T053,2026-06-07 14:50,Database,Query Error,Sales,Low,Medium,Resolved,DB,2026-06-08 10:13,Application cannot connect to the production database.
+T054,2026-06-09 14:50,Network,Proxy,HR,Low,Medium,Open,Infra,,Users cannot access external websites through the proxy.
+T055,2026-06-14 15:50,Network,Firewall,Legal,High,Low,Resolved,Infra,2026-06-14 19:56,Users cannot access external websites through the proxy.
+T056,2026-06-14 11:00,Security,Shared Folder,Legal,Medium,Medium,In Progress,Security,,Permission settings need to be reviewed.
+T057,2026-06-08 11:20,Login,SSO,IT,Medium,Medium,In Progress,Helpdesk,,User account is locked after multiple login attempts.
+T058,2026-06-07 15:40,Database,Timeout,Sales,Medium,High,Open,DB,,Slow query performance is affecting business reports.
+T059,2026-06-12 11:20,Cloud,Deployment,Legal,Low,High,Open,Infra,,Deployment failed in the staging environment.
+T060,2026-06-08 12:20,Application,Error Message,IT,Low,Medium,In Progress,App,,CRM system response time is very slow.
+T061,2026-06-03 11:10,Cloud,Storage,Operations,High,Medium,Resolved,Infra,2026-06-03 16:29,Deployment failed in the staging environment.
+T062,2026-06-09 10:20,Network,Office Wi-Fi,Marketing,High,High,Open,Infra,,Users cannot connect to VPN during remote work.
+T063,2026-06-01 17:20,Security,Suspicious Login,Finance,Medium,Low,Open,Security,,Permission settings need to be reviewed.
+T064,2026-06-02 14:30,Database,Connection,Sales,Medium,Low,Open,DB,,Monthly report query fails with timeout error.
+T065,2026-06-07 17:40,Login,MFA,Marketing,High,High,Resolved,Helpdesk,2026-06-07 20:14,Single sign-on fails when accessing the HR system.
+T066,2026-06-10 08:40,Application,Data Sync,Marketing,Low,Low,In Progress,Infra,,Inventory system shows incorrect stock values.
+T067,2026-06-02 10:00,Cloud,Storage,Marketing,Medium,High,Open,Infra,,Server monitoring alert was triggered.
+T068,2026-06-02 18:10,Database,Query Error,Engineering,Medium,High,Resolved,Helpdesk,2026-06-03 01:16,Application cannot connect to the production database.
+T069,2026-06-05 17:50,Cloud,Storage,Marketing,Low,High,Open,Infra,,Deployment failed in the staging environment.
+T070,2026-06-09 16:30,Application,Performance,Legal,Medium,Medium,Resolved,App,2026-06-10 12:02,Customer data is not synchronized correctly.
+T071,2026-06-14 17:40,Cloud,CPU Usage,Marketing,High,High,Resolved,Security,2026-06-14 22:42,Cloud storage usage reached the warning threshold.
+T072,2026-06-08 09:30,Application,Data Sync,Marketing,High,Medium,Resolved,App,2026-06-08 15:29,CRM system response time is very slow.
+T073,2026-06-14 16:00,Login,Account Lock,IT,Medium,High,Resolved,Helpdesk,2026-06-14 21:46,User account is locked after multiple login attempts.
+T074,2026-06-04 16:20,Network,Firewall,Sales,Medium,Medium,In Progress,Infra,,Firewall configuration may be blocking business applications.
+T075,2026-06-08 15:00,Cloud,Deployment,Sales,High,Medium,Resolved,Infra,2026-06-09 00:33,Cloud storage usage reached the warning threshold.
+T076,2026-06-14 09:30,Cloud,Storage,Marketing,Medium,Medium,Open,DB,,Server monitoring alert was triggered.
+T077,2026-06-08 16:10,Cloud,CPU Usage,Marketing,Medium,Medium,In Progress,Infra,,Cloud storage usage reached the warning threshold.
+T078,2026-06-01 12:50,Network,Proxy,IT,Medium,Low,In Progress,Infra,,Firewall configuration may be blocking business applications.
+T079,2026-06-08 13:10,Login,SSO,Legal,Medium,Medium,Resolved,DB,2026-06-09 08:02,User cannot complete multi-factor authentication.
+T080,2026-06-07 18:50,Application,Performance,Operations,Low,Medium,Resolved,Security,2026-06-08 23:55,Inventory system shows incorrect stock values.
+T081,2026-06-08 08:50,Security,Suspicious Login,HR,Low,Medium,Resolved,Security,2026-06-09 11:28,Suspicious login attempt was detected.
+T082,2026-06-14 13:50,Network,Firewall,Marketing,Medium,Medium,Resolved,App,2026-06-15 18:38,Firewall configuration may be blocking business applications.
+T083,2026-06-04 09:30,Security,Permission,HR,High,Medium,In Progress,Infra,,Permission settings need to be reviewed.
+T084,2026-06-06 14:10,Login,Account Lock,Sales,High,Low,In Progress,Helpdesk,,Single sign-on fails when accessing the HR system.
+T085,2026-06-11 11:30,Security,Access Request,Finance,High,Medium,In Progress,Helpdesk,,Suspicious login attempt was detected.
+T086,2026-06-05 18:40,Application,Error Message,Legal,Medium,High,Resolved,App,2026-06-06 01:58,Application shows an unexpected error message.
+T087,2026-06-07 15:00,Security,Suspicious Login,IT,Medium,Medium,In Progress,Security,,New employee needs access to internal documents.
+T088,2026-06-01 17:50,Security,Suspicious Login,Marketing,High,Low,In Progress,Security,,User requests access to a shared folder.
+T089,2026-06-04 18:10,Security,Shared Folder,Marketing,Low,High,Resolved,Security,2026-06-05 04:17,Suspicious login attempt was detected.
+T090,2026-06-12 10:00,Cloud,Server Alert,Sales,Medium,Medium,Resolved,Security,2026-06-13 09:26,Cloud storage usage reached the warning threshold.
+T091,2026-06-05 15:20,Login,MFA,Operations,Medium,Low,Resolved,Helpdesk,2026-06-06 04:08,Employee cannot log in to the internal system.
+T092,2026-06-11 14:40,Application,Performance,Finance,Low,High,Resolved,App,2026-06-12 02:09,CRM system response time is very slow.
+T093,2026-06-07 18:20,Database,Query Error,Legal,Medium,Medium,In Progress,DB,,Application cannot connect to the production database.
+T094,2026-06-14 15:50,Application,Performance,Operations,Low,High,Open,App,,Customer data is not synchronized correctly.
+T095,2026-06-02 11:40,Network,Office Wi-Fi,Sales,Low,Medium,In Progress,Infra,,Firewall configuration may be blocking business applications.
+T096,2026-06-10 14:20,Database,Backup,Finance,Low,Medium,Resolved,DB,2026-06-11 03:58,Slow query performance is affecting business reports.
+T097,2026-06-11 13:00,Application,Bug,Operations,High,Medium,Resolved,App,2026-06-11 17:16,CRM system response time is very slow.
+T098,2026-06-13 13:10,Application,Performance,Engineering,Medium,Medium,Open,Helpdesk,,CRM system response time is very slow.
+T099,2026-06-13 17:00,Security,Access Request,Engineering,Low,High,Resolved,Security,2026-06-14 06:48,Suspicious login attempt was detected.
+T100,2026-06-06 11:40,Security,Suspicious Login,Finance,High,Low,Open,Security,,Suspicious login attempt was detected.

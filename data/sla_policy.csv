@@ -1,0 +1,5 @@
+priority,sla_hours,escalation_required
+Critical,4,Yes
+High,8,Yes
+Medium,24,No
+Low,72,No
