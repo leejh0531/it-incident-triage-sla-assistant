@@ -243,6 +243,14 @@ This project also includes documentation for business case, requirements, system
 
 ---
 
+## Note
+
+This project was developed as a learning and portfolio project to understand basic IT service management workflows.  
+The idea is based on common IT operations scenarios such as incident ticket triage, SLA monitoring, team routing, and FAQ-based support.  
+AI assistance was used for planning, coding support, and documentation refinement.
+
+---
+
 # IT Incident Triage & SLA Risk Assistant 한국어 설명
 
 ## 개요
